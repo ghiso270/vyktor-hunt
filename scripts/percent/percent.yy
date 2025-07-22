@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"percent",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"percent",
+  "parent":{
+    "name":"math",
+    "path":"folders/Scripts/math.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

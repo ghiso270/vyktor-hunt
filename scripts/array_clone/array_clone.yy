@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"array_clone",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"array_clone",
+  "parent":{
+    "name":"utilities",
+    "path":"folders/Scripts/utilities.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

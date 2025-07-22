@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"greater_pow2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"greater_pow2",
+  "parent":{
+    "name":"math",
+    "path":"folders/Scripts/math.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_anti_aliasing",
+  "name":"sh_anti_aliasing",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

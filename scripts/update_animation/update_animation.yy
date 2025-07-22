@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_animation",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_animation",
+  "parent":{
+    "name":"states",
+    "path":"folders/Scripts/states.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
